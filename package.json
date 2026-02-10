@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "debug": "^4.4.3",
+    "discord.js": "^14.18.0",
+    "discord.js-selfbot-v13": "^3.5.1",
+    "@snazaah/davey": "1.0.0",    
+    "dotenv": "^16.4.7",
+    "undici": "^6.0.0"
+  },
+  "name": "Discord Token Auto Joiner Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "tiredreal",
+  "license": "ISC",
+  "description": "This project is a Discord Token Auto Joiner Bot, designed to allow multiple self-bot tokens to join a specified Discord server automatically. It utilizes the Discord OAuth2 authorization process and self-bot clients to facilitate the token joining process."
+}
