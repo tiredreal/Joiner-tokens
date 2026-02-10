@@ -37,8 +37,8 @@ Before you begin, ensure you have the following installed:
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
-cd joiner
+git clone https://github.com/tiredreal/Joiner-tokens.git
+cd Joiner-tokens
 npm install
 ```
 
