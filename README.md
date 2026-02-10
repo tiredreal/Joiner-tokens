@@ -60,7 +60,7 @@ NESTS=your_discord_user_id
 | `CLIENT_TOKEN` | Your Discord bot token |
 | `CLIENT_SECRET` | OAuth2 client secret from Discord Developer Portal |
 | `REDIRECT_URL` | OAuth2 redirect URI (must match Discord app settings) |
-| `AUTHORIZED_USER_ID` | Discord user ID allowed to execute commands |
+| `NESTS` | Discord user ID allowed to execute commands |
 
 ### Token Configuration
 
